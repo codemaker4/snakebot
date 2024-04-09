@@ -1,5 +1,6 @@
 # Create your snake bot!
-(Nederlandse vertaling onderaan)
+_(Nederlandse vertaling onderaan)_
+
 Here you can create your own bot for the snake game. The snake game is a game where you control a snake that needs to eat apples. When the snake eats an apple, the snake gets longer. If the snake hits the wall or itself, the game is over.
 
 ## How does it work?
